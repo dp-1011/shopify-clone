@@ -37,7 +37,7 @@ This project is based on TAILWIND CSS. One have to use it to understand its true
 ### You can Check it Live on Below Link :
 
 
-[Live Link !](https://paytmm-clone.netlify.app/)
+[Live Link !](https://shopify-clonee.netlify.app/)
 
 </br>
 
